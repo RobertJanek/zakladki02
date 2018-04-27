@@ -1,0 +1,240 @@
+C:\Users\robert.paszkowski\source\repos\zakladki01\zakladki01\bin\Debug\zakladki01.exe.config
+C:\Users\robert.paszkowski\source\repos\zakladki01\zakladki01\bin\Debug\zakladki01.exe
+C:\Users\robert.paszkowski\source\repos\zakladki01\zakladki01\bin\Debug\zakladki01.pdb
+C:\Users\robert.paszkowski\source\repos\zakladki01\zakladki01\obj\Debug\zakladki01.csprojResolveAssemblyReference.cache
+C:\Users\robert.paszkowski\source\repos\zakladki01\zakladki01\obj\Debug\zakladki01.Form1.resources
+C:\Users\robert.paszkowski\source\repos\zakladki01\zakladki01\obj\Debug\zakladki01.Properties.Resources.resources
+C:\Users\robert.paszkowski\source\repos\zakladki01\zakladki01\obj\Debug\zakladki01.csproj.GenerateResource.Cache
+C:\Users\robert.paszkowski\source\repos\zakladki01\zakladki01\obj\Debug\zakladki01.csproj.CoreCompileInputs.cache
+C:\Users\robert.paszkowski\source\repos\zakladki01\zakladki01\obj\Debug\zakladki01.exe
+C:\Users\robert.paszkowski\source\repos\zakladki01\zakladki01\obj\Debug\zakladki01.pdb
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171107\zakladki01\bin\Debug\zakladki01.exe.config
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171107\zakladki01\bin\Debug\zakladki01.exe
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171107\zakladki01\bin\Debug\zakladki01.pdb
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171107\zakladki01\obj\Debug\zakladki01.csprojResolveAssemblyReference.cache
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171107\zakladki01\obj\Debug\zakladki01.Form1.resources
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171107\zakladki01\obj\Debug\zakladki01.Properties.Resources.resources
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171107\zakladki01\obj\Debug\zakladki01.csproj.GenerateResource.Cache
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171107\zakladki01\obj\Debug\zakladki01.csproj.CoreCompileInputs.cache
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171107\zakladki01\obj\Debug\zakladki01.exe
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171107\zakladki01\obj\Debug\zakladki01.pdb
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171107 1600\zakladki01\bin\Debug\zakladki01.exe.config
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171107 1600\zakladki01\bin\Debug\zakladki01.exe
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171107 1600\zakladki01\bin\Debug\zakladki01.pdb
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171107 1600\zakladki01\obj\Debug\zakladki01.csprojResolveAssemblyReference.cache
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171107 1600\zakladki01\obj\Debug\zakladki01.Form1.resources
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171107 1600\zakladki01\obj\Debug\zakladki01.Properties.Resources.resources
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171107 1600\zakladki01\obj\Debug\zakladki01.csproj.GenerateResource.Cache
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171107 1600\zakladki01\obj\Debug\zakladki01.csproj.CoreCompileInputs.cache
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171107 1600\zakladki01\obj\Debug\zakladki01.exe
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171107 1600\zakladki01\obj\Debug\zakladki01.pdb
+C:\Users\Robert_robocze\source\repos\zakladki01 20171127 1600\zakladki01\bin\Debug\zakladki01.exe.config
+C:\Users\Robert_robocze\source\repos\zakladki01 20171127 1600\zakladki01\bin\Debug\zakladki01.exe
+C:\Users\Robert_robocze\source\repos\zakladki01 20171127 1600\zakladki01\bin\Debug\zakladki01.pdb
+C:\Users\Robert_robocze\source\repos\zakladki01 20171127 1600\zakladki01\obj\Debug\zakladki01.csprojResolveAssemblyReference.cache
+C:\Users\Robert_robocze\source\repos\zakladki01 20171127 1600\zakladki01\obj\Debug\zakladki01.Form1.resources
+C:\Users\Robert_robocze\source\repos\zakladki01 20171127 1600\zakladki01\obj\Debug\zakladki01.Properties.Resources.resources
+C:\Users\Robert_robocze\source\repos\zakladki01 20171127 1600\zakladki01\obj\Debug\zakladki01.csproj.GenerateResource.Cache
+C:\Users\Robert_robocze\source\repos\zakladki01 20171127 1600\zakladki01\obj\Debug\zakladki01.csproj.CoreCompileInputs.cache
+C:\Users\Robert_robocze\source\repos\zakladki01 20171127 1600\zakladki01\obj\Debug\zakladki01.exe
+C:\Users\Robert_robocze\source\repos\zakladki01 20171127 1600\zakladki01\obj\Debug\zakladki01.pdb
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171127 1600\zakladki01\bin\Debug\zakladki01.exe.config
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171127 1600\zakladki01\bin\Debug\zakladki01.exe
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171127 1600\zakladki01\bin\Debug\zakladki01.pdb
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171127 1600\zakladki01\obj\Debug\zakladki01.csprojResolveAssemblyReference.cache
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171127 1600\zakladki01\obj\Debug\zakladki01.Form1.resources
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171127 1600\zakladki01\obj\Debug\zakladki01.Properties.Resources.resources
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171127 1600\zakladki01\obj\Debug\zakladki01.csproj.GenerateResource.Cache
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171127 1600\zakladki01\obj\Debug\zakladki01.csproj.CoreCompileInputs.cache
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171127 1600\zakladki01\obj\Debug\zakladki01.exe
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171127 1600\zakladki01\obj\Debug\zakladki01.pdb
+C:\Users\Robert_robocze\source\repos\zakladki01 20171128 1600\zakladki01\bin\Debug\zakladki01.exe.config
+C:\Users\Robert_robocze\source\repos\zakladki01 20171128 1600\zakladki01\bin\Debug\zakladki01.exe
+C:\Users\Robert_robocze\source\repos\zakladki01 20171128 1600\zakladki01\bin\Debug\zakladki01.pdb
+C:\Users\Robert_robocze\source\repos\zakladki01 20171128 1600\zakladki01\obj\Debug\zakladki01.csprojResolveAssemblyReference.cache
+C:\Users\Robert_robocze\source\repos\zakladki01 20171128 1600\zakladki01\obj\Debug\zakladki01.Form1.resources
+C:\Users\Robert_robocze\source\repos\zakladki01 20171128 1600\zakladki01\obj\Debug\zakladki01.Properties.Resources.resources
+C:\Users\Robert_robocze\source\repos\zakladki01 20171128 1600\zakladki01\obj\Debug\zakladki01.csproj.GenerateResource.Cache
+C:\Users\Robert_robocze\source\repos\zakladki01 20171128 1600\zakladki01\obj\Debug\zakladki01.csproj.CoreCompileInputs.cache
+C:\Users\Robert_robocze\source\repos\zakladki01 20171128 1600\zakladki01\obj\Debug\zakladki01.exe
+C:\Users\Robert_robocze\source\repos\zakladki01 20171128 1600\zakladki01\obj\Debug\zakladki01.pdb
+C:\Users\Robert_robocze\source\repos\zakladki01 20171129 2100\zakladki01\obj\Debug\zakladki01.csprojResolveAssemblyReference.cache
+C:\Users\Robert_robocze\source\repos\zakladki01 20171129 2100\zakladki01\obj\Debug\zakladki01.Form1.resources
+C:\Users\Robert_robocze\source\repos\zakladki01 20171129 2100\zakladki01\obj\Debug\zakladki01.Properties.Resources.resources
+C:\Users\Robert_robocze\source\repos\zakladki01 20171129 2100\zakladki01\obj\Debug\zakladki01.csproj.GenerateResource.Cache
+C:\Users\Robert_robocze\source\repos\zakladki01 20171129 2100\zakladki01\obj\Debug\zakladki01.csproj.CoreCompileInputs.cache
+C:\Users\Robert_robocze\source\repos\zakladki01 20171129 2100\zakladki01\obj\Debug\zakladki01.exe
+C:\Users\Robert_robocze\source\repos\zakladki01 20171129 2100\zakladki01\obj\Debug\zakladki01.pdb
+C:\Users\Robert_robocze\source\repos\zakladki01 20171129 2100\zakladki01\bin\Debug\zakladki01.exe.config
+C:\Users\Robert_robocze\source\repos\zakladki01 20171129 2100\zakladki01\bin\Debug\zakladki01.exe
+C:\Users\Robert_robocze\source\repos\zakladki01 20171129 2100\zakladki01\bin\Debug\zakladki01.pdb
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171130 0400\zakladki01\bin\Debug\zakladki01.exe.config
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171130 0400\zakladki01\bin\Debug\zakladki01.exe
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171130 0400\zakladki01\bin\Debug\zakladki01.pdb
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171130 0400\zakladki01\obj\Debug\zakladki01.csprojResolveAssemblyReference.cache
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171130 0400\zakladki01\obj\Debug\zakladki01.Form1.resources
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171130 0400\zakladki01\obj\Debug\zakladki01.Properties.Resources.resources
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171130 0400\zakladki01\obj\Debug\zakladki01.csproj.GenerateResource.Cache
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171130 0400\zakladki01\obj\Debug\zakladki01.csproj.CoreCompileInputs.cache
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171130 0400\zakladki01\obj\Debug\zakladki01.exe
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171130 0400\zakladki01\obj\Debug\zakladki01.pdb
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171130 1600\zakladki01\obj\Debug\zakladki01.csprojResolveAssemblyReference.cache
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171130 1600\zakladki01\obj\Debug\zakladki01.Form1.resources
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171130 1600\zakladki01\obj\Debug\zakladki01.Properties.Resources.resources
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171130 1600\zakladki01\obj\Debug\zakladki01.csproj.GenerateResource.Cache
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171130 1600\zakladki01\obj\Debug\zakladki01.csproj.CoreCompileInputs.cache
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171130 1600\zakladki01\obj\Debug\zakladki01.exe
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171130 1600\zakladki01\obj\Debug\zakladki01.pdb
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171130 1600\zakladki01\bin\Debug\zakladki01.exe.config
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171130 1600\zakladki01\bin\Debug\zakladki01.exe
+C:\Users\robert.paszkowski\source\repos\zakladki01 20171130 1600\zakladki01\bin\Debug\zakladki01.pdb
+C:\Users\Robert_robocze\source\repos\zakladki01 20171201 1630\zakladki01\bin\Debug\zakladki01.exe.config
+C:\Users\Robert_robocze\source\repos\zakladki01 20171201 1630\zakladki01\bin\Debug\zakladki01.exe
+C:\Users\Robert_robocze\source\repos\zakladki01 20171201 1630\zakladki01\bin\Debug\zakladki01.pdb
+C:\Users\Robert_robocze\source\repos\zakladki01 20171201 1630\zakladki01\obj\Debug\zakladki01.csprojResolveAssemblyReference.cache
+C:\Users\Robert_robocze\source\repos\zakladki01 20171201 1630\zakladki01\obj\Debug\zakladki01.Form1.resources
+C:\Users\Robert_robocze\source\repos\zakladki01 20171201 1630\zakladki01\obj\Debug\zakladki01.Properties.Resources.resources
+C:\Users\Robert_robocze\source\repos\zakladki01 20171201 1630\zakladki01\obj\Debug\zakladki01.csproj.GenerateResource.Cache
+C:\Users\Robert_robocze\source\repos\zakladki01 20171201 1630\zakladki01\obj\Debug\zakladki01.csproj.CoreCompileInputs.cache
+C:\Users\Robert_robocze\source\repos\zakladki01 20171201 1630\zakladki01\obj\Debug\zakladki01.exe
+C:\Users\Robert_robocze\source\repos\zakladki01 20171201 1630\zakladki01\obj\Debug\zakladki01.pdb
+C:\Users\Robert_robocze\source\repos\zakladki01 20171204 0100\zakladki01\bin\Debug\zakladki01.exe.config
+C:\Users\Robert_robocze\source\repos\zakladki01 20171204 0100\zakladki01\bin\Debug\zakladki01.exe
+C:\Users\Robert_robocze\source\repos\zakladki01 20171204 0100\zakladki01\bin\Debug\zakladki01.pdb
+C:\Users\Robert_robocze\source\repos\zakladki01 20171204 0100\zakladki01\obj\Debug\zakladki01.csprojResolveAssemblyReference.cache
+C:\Users\Robert_robocze\source\repos\zakladki01 20171204 0100\zakladki01\obj\Debug\zakladki01.Form1.resources
+C:\Users\Robert_robocze\source\repos\zakladki01 20171204 0100\zakladki01\obj\Debug\zakladki01.Properties.Resources.resources
+C:\Users\Robert_robocze\source\repos\zakladki01 20171204 0100\zakladki01\obj\Debug\zakladki01.csproj.GenerateResource.Cache
+C:\Users\Robert_robocze\source\repos\zakladki01 20171204 0100\zakladki01\obj\Debug\zakladki01.csproj.CoreCompileInputs.cache
+C:\Users\Robert_robocze\source\repos\zakladki01 20171204 0100\zakladki01\obj\Debug\zakladki01.exe
+C:\Users\Robert_robocze\source\repos\zakladki01 20171204 0100\zakladki01\obj\Debug\zakladki01.pdb
+C:\Users\admin\source\repos\zakladki01 20171205 0100\zakladki01\bin\Debug\zakladki01.exe.config
+C:\Users\admin\source\repos\zakladki01 20171205 0100\zakladki01\bin\Debug\zakladki01.exe
+C:\Users\admin\source\repos\zakladki01 20171205 0100\zakladki01\bin\Debug\zakladki01.pdb
+C:\Users\admin\source\repos\zakladki01 20171205 0100\zakladki01\obj\Debug\zakladki01.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\zakladki01 20171205 0100\zakladki01\obj\Debug\zakladki01.Form1.resources
+C:\Users\admin\source\repos\zakladki01 20171205 0100\zakladki01\obj\Debug\zakladki01.Properties.Resources.resources
+C:\Users\admin\source\repos\zakladki01 20171205 0100\zakladki01\obj\Debug\zakladki01.csproj.GenerateResource.Cache
+C:\Users\admin\source\repos\zakladki01 20171205 0100\zakladki01\obj\Debug\zakladki01.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\zakladki01 20171205 0100\zakladki01\obj\Debug\zakladki01.exe
+C:\Users\admin\source\repos\zakladki01 20171205 0100\zakladki01\obj\Debug\zakladki01.pdb
+C:\Users\admin\source\repos\zakladki01 20171221 1400\zakladki01\obj\Debug\zakladki01.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\zakladki01 20171221 1400\zakladki01\obj\Debug\zakladki01.Form1.resources
+C:\Users\admin\source\repos\zakladki01 20171221 1400\zakladki01\obj\Debug\zakladki01.Properties.Resources.resources
+C:\Users\admin\source\repos\zakladki01 20171221 1400\zakladki01\obj\Debug\zakladki01.csproj.GenerateResource.Cache
+C:\Users\admin\source\repos\zakladki01 20171221 1400\zakladki01\obj\Debug\zakladki01.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\zakladki01 20171221 1400\zakladki01\obj\Debug\zakladki01.exe
+C:\Users\admin\source\repos\zakladki01 20171221 1400\zakladki01\obj\Debug\zakladki01.pdb
+C:\Users\admin\source\repos\zakladki01 20171221 1400\zakladki01\bin\Debug\zakladki01.exe.config
+C:\Users\admin\source\repos\zakladki01 20171221 1400\zakladki01\bin\Debug\zakladki01.exe
+C:\Users\admin\source\repos\zakladki01 20171221 1400\zakladki01\bin\Debug\zakladki01.pdb
+C:\Users\admin\source\repos\zakladki01 20171222 1300\zakladki01\bin\Debug\zakladki01.exe.config
+C:\Users\admin\source\repos\zakladki01 20171222 1300\zakladki01\bin\Debug\zakladki01.exe
+C:\Users\admin\source\repos\zakladki01 20171222 1300\zakladki01\bin\Debug\zakladki01.pdb
+C:\Users\admin\source\repos\zakladki01 20171222 1300\zakladki01\obj\Debug\zakladki01.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\zakladki01 20171222 1300\zakladki01\obj\Debug\zakladki01.Form1.resources
+C:\Users\admin\source\repos\zakladki01 20171222 1300\zakladki01\obj\Debug\zakladki01.Properties.Resources.resources
+C:\Users\admin\source\repos\zakladki01 20171222 1300\zakladki01\obj\Debug\zakladki01.csproj.GenerateResource.Cache
+C:\Users\admin\source\repos\zakladki01 20171222 1300\zakladki01\obj\Debug\zakladki01.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\zakladki01 20171222 1300\zakladki01\obj\Debug\zakladki01.exe
+C:\Users\admin\source\repos\zakladki01 20171222 1300\zakladki01\obj\Debug\zakladki01.pdb
+C:\Users\admin\source\repos\zakladki01 20171227 1600\zakladki01\bin\Debug\zakladki01.exe.config
+C:\Users\admin\source\repos\zakladki01 20171227 1600\zakladki01\bin\Debug\zakladki01.exe
+C:\Users\admin\source\repos\zakladki01 20171227 1600\zakladki01\bin\Debug\zakladki01.pdb
+C:\Users\admin\source\repos\zakladki01 20171227 1600\zakladki01\obj\Debug\zakladki01.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\zakladki01 20171227 1600\zakladki01\obj\Debug\zakladki01.Form1.resources
+C:\Users\admin\source\repos\zakladki01 20171227 1600\zakladki01\obj\Debug\zakladki01.Properties.Resources.resources
+C:\Users\admin\source\repos\zakladki01 20171227 1600\zakladki01\obj\Debug\zakladki01.csproj.GenerateResource.Cache
+C:\Users\admin\source\repos\zakladki01 20171227 1600\zakladki01\obj\Debug\zakladki01.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\zakladki01 20171227 1600\zakladki01\obj\Debug\zakladki01.exe
+C:\Users\admin\source\repos\zakladki01 20171227 1600\zakladki01\obj\Debug\zakladki01.pdb
+C:\Users\admin\source\repos\zakladki01 20171228 1500\zakladki01\bin\Debug\zakladki01.exe.config
+C:\Users\admin\source\repos\zakladki01 20171228 1500\zakladki01\bin\Debug\zakladki01.exe
+C:\Users\admin\source\repos\zakladki01 20171228 1500\zakladki01\bin\Debug\zakladki01.pdb
+C:\Users\admin\source\repos\zakladki01 20171228 1500\zakladki01\obj\Debug\zakladki01.csprojResolveAssemblyReference.cache
+C:\Users\admin\source\repos\zakladki01 20171228 1500\zakladki01\obj\Debug\zakladki01.Form1.resources
+C:\Users\admin\source\repos\zakladki01 20171228 1500\zakladki01\obj\Debug\zakladki01.Properties.Resources.resources
+C:\Users\admin\source\repos\zakladki01 20171228 1500\zakladki01\obj\Debug\zakladki01.csproj.GenerateResource.Cache
+C:\Users\admin\source\repos\zakladki01 20171228 1500\zakladki01\obj\Debug\zakladki01.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\zakladki01 20171228 1500\zakladki01\obj\Debug\zakladki01.exe
+C:\Users\admin\source\repos\zakladki01 20171228 1500\zakladki01\obj\Debug\zakladki01.pdb
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171229 1330\zakladki01\bin\Debug\zakladki01.exe.config
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171229 1330\zakladki01\bin\Debug\zakladki01.exe
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171229 1330\zakladki01\bin\Debug\zakladki01.pdb
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171229 1330\zakladki01\obj\Debug\zakladki01.csprojResolveAssemblyReference.cache
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171229 1330\zakladki01\obj\Debug\zakladki01.Form1.resources
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171229 1330\zakladki01\obj\Debug\zakladki01.Properties.Resources.resources
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171229 1330\zakladki01\obj\Debug\zakladki01.csproj.GenerateResource.Cache
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171229 1330\zakladki01\obj\Debug\zakladki01.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171229 1330\zakladki01\obj\Debug\zakladki01.exe
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171229 1330\zakladki01\obj\Debug\zakladki01.pdb
+C:\Users\Robert_robocze\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171229 1330\zakladki01\bin\Debug\zakladki01.exe.config
+C:\Users\Robert_robocze\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171229 1330\zakladki01\bin\Debug\zakladki01.exe
+C:\Users\Robert_robocze\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171229 1330\zakladki01\bin\Debug\zakladki01.pdb
+C:\Users\Robert_robocze\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171229 1330\zakladki01\obj\Debug\zakladki01.csprojResolveAssemblyReference.cache
+C:\Users\Robert_robocze\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171229 1330\zakladki01\obj\Debug\zakladki01.Form1.resources
+C:\Users\Robert_robocze\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171229 1330\zakladki01\obj\Debug\zakladki01.Properties.Resources.resources
+C:\Users\Robert_robocze\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171229 1330\zakladki01\obj\Debug\zakladki01.csproj.GenerateResource.Cache
+C:\Users\Robert_robocze\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171229 1330\zakladki01\obj\Debug\zakladki01.csproj.CoreCompileInputs.cache
+C:\Users\Robert_robocze\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171229 1330\zakladki01\obj\Debug\zakladki01.exe
+C:\Users\Robert_robocze\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171229 1330\zakladki01\obj\Debug\zakladki01.pdb
+C:\Users\Robert_robocze\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171230 2000\zakladki01\bin\Debug\zakladki01.exe.config
+C:\Users\Robert_robocze\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171230 2000\zakladki01\bin\Debug\zakladki01.exe
+C:\Users\Robert_robocze\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171230 2000\zakladki01\bin\Debug\zakladki01.pdb
+C:\Users\Robert_robocze\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171230 2000\zakladki01\obj\Debug\zakladki01.csprojResolveAssemblyReference.cache
+C:\Users\Robert_robocze\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171230 2000\zakladki01\obj\Debug\zakladki01.Form1.resources
+C:\Users\Robert_robocze\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171230 2000\zakladki01\obj\Debug\zakladki01.Properties.Resources.resources
+C:\Users\Robert_robocze\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171230 2000\zakladki01\obj\Debug\zakladki01.csproj.GenerateResource.Cache
+C:\Users\Robert_robocze\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171230 2000\zakladki01\obj\Debug\zakladki01.csproj.CoreCompileInputs.cache
+C:\Users\Robert_robocze\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171230 2000\zakladki01\obj\Debug\zakladki01.exe
+C:\Users\Robert_robocze\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20171230 2000\zakladki01\obj\Debug\zakladki01.pdb
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180109 1800\zakladki01\bin\Debug\zakladki01.exe.config
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180109 1800\zakladki01\bin\Debug\zakladki01.exe
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180109 1800\zakladki01\bin\Debug\zakladki01.pdb
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180109 1800\zakladki01\obj\Debug\zakladki01.csprojResolveAssemblyReference.cache
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180109 1800\zakladki01\obj\Debug\zakladki01.Form1.resources
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180109 1800\zakladki01\obj\Debug\zakladki01.Properties.Resources.resources
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180109 1800\zakladki01\obj\Debug\zakladki01.csproj.GenerateResource.Cache
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180109 1800\zakladki01\obj\Debug\zakladki01.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180109 1800\zakladki01\obj\Debug\zakladki01.exe
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180109 1800\zakladki01\obj\Debug\zakladki01.pdb
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180123 1800\zakladki01\obj\Debug\zakladki01.csprojResolveAssemblyReference.cache
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180123 1800\zakladki01\obj\Debug\zakladki01.Form1.resources
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180123 1800\zakladki01\obj\Debug\zakladki01.Properties.Resources.resources
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180123 1800\zakladki01\obj\Debug\zakladki01.csproj.GenerateResource.Cache
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180123 1800\zakladki01\obj\Debug\zakladki01.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180123 1800\zakladki01\obj\Debug\zakladki01.exe
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180123 1800\zakladki01\obj\Debug\zakladki01.pdb
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180123 1800\zakladki01\bin\Debug\zakladki01.exe.config
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180123 1800\zakladki01\bin\Debug\zakladki01.exe
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180123 1800\zakladki01\bin\Debug\zakladki01.pdb
+C:\Users\robert.paszkowski\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180123 1800\zakladki01\bin\Debug\zakladki01.exe.config
+C:\Users\robert.paszkowski\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180123 1800\zakladki01\bin\Debug\zakladki01.exe
+C:\Users\robert.paszkowski\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180123 1800\zakladki01\bin\Debug\zakladki01.pdb
+C:\Users\robert.paszkowski\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180123 1800\zakladki01\obj\Debug\zakladki01.csprojResolveAssemblyReference.cache
+C:\Users\robert.paszkowski\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180123 1800\zakladki01\obj\Debug\zakladki01.Form1.resources
+C:\Users\robert.paszkowski\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180123 1800\zakladki01\obj\Debug\zakladki01.Properties.Resources.resources
+C:\Users\robert.paszkowski\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180123 1800\zakladki01\obj\Debug\zakladki01.csproj.GenerateResource.Cache
+C:\Users\robert.paszkowski\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180123 1800\zakladki01\obj\Debug\zakladki01.csproj.CoreCompileInputs.cache
+C:\Users\robert.paszkowski\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180123 1800\zakladki01\obj\Debug\zakladki01.exe
+C:\Users\robert.paszkowski\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180123 1800\zakladki01\obj\Debug\zakladki01.pdb
+C:\Users\robert.paszkowski\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180127 1600\zakladki01\obj\Debug\zakladki01.csprojResolveAssemblyReference.cache
+C:\Users\robert.paszkowski\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180127 1600\zakladki01\obj\Debug\zakladki01.Form1.resources
+C:\Users\robert.paszkowski\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180127 1600\zakladki01\obj\Debug\zakladki01.Properties.Resources.resources
+C:\Users\robert.paszkowski\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180127 1600\zakladki01\obj\Debug\zakladki01.csproj.GenerateResource.Cache
+C:\Users\robert.paszkowski\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180127 1600\zakladki01\obj\Debug\zakladki01.csproj.CoreCompileInputs.cache
+C:\Users\robert.paszkowski\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180127 1600\zakladki01\obj\Debug\zakladki01.exe
+C:\Users\robert.paszkowski\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180127 1600\zakladki01\obj\Debug\zakladki01.pdb
+C:\Users\robert.paszkowski\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180127 1600\zakladki01\bin\Debug\zakladki01.exe.config
+C:\Users\robert.paszkowski\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180127 1600\zakladki01\bin\Debug\zakladki01.exe
+C:\Users\robert.paszkowski\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180127 1600\zakladki01\bin\Debug\zakladki01.pdb
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180128 0100\zakladki01\bin\Debug\zakladki01.exe.config
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180128 0100\zakladki01\bin\Debug\zakladki01.exe
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180128 0100\zakladki01\bin\Debug\zakladki01.pdb
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180128 0100\zakladki01\obj\Debug\zakladki01.csprojResolveAssemblyReference.cache
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180128 0100\zakladki01\obj\Debug\zakladki01.Form1.resources
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180128 0100\zakladki01\obj\Debug\zakladki01.Properties.Resources.resources
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180128 0100\zakladki01\obj\Debug\zakladki01.csproj.GenerateResource.Cache
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180128 0100\zakladki01\obj\Debug\zakladki01.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180128 0100\zakladki01\obj\Debug\zakladki01.exe
+C:\Users\admin\OneDrive - Wojskowa Akademia Techniczna\aktualnie w przetwarzaniu\Kody\zakladki01 20180128 0100\zakladki01\obj\Debug\zakladki01.pdb
